@@ -1,3 +1,7 @@
+## Movimentos 2.0 - App
+
+Repositorio criado para fins de estudo, aplicando Typescript, React, Tailwind CSS, junto com a ferramenta NextJs.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
